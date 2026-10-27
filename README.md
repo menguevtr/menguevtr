@@ -12,13 +12,13 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
 
 <img align="right" alt="" height="165px" src="./src/gif-name.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">🫂 Connect with me!</h3>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vitor.dorneless/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
 
 
-<h3 align="left">My Stack </h3>
+<h3 align="left">💻 My Stack </h3>
 
 <img 
     align="left" 
@@ -89,7 +89,7 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">👨‍💻 GitHub Stats</h3>
 
 <table align="center">
   <tr>
