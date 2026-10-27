@@ -91,25 +91,23 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
 
 <h3 align="left">GitHub Stats</h3>
 
-<p align="center">
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=menguevtr&theme=radical&locale=pt_BR"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=menguevtr&show_icons=true&theme=radical&locale=pt-br"
-  />
-  <img
-    alt="Tecnologias"
-    height="200"
-    src="https://github-readme-stats-kappa-khaki-76.vercel.app/api/top-langs/?username=menguevtr&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+              alt="GitHub Streak"
+        height="170"
+        src="https://streak-stats.demolab.com/?user=menguevtr&theme=radical&locale=pt_BR"
+    </td>
+    <td align="center">
+      <img
+     alt="GitHub Stats"
+        height="170"
+        src="https://github-readme-stats.vercel.app/api?username=menguevtr&show_icons=true&theme=radical&locale=pt-br"
+      />
+    </td>
+  </tr>
+</table>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menguevtr/menguevtr/output/github-contribution-grid-snake-dark.svg">
