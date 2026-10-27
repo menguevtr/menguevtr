@@ -10,7 +10,7 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
  
 #
 
-<img align="right" alt="" height="190px" src="./src/Shine-Neon.gif">
+<img align="right" alt="" height="170px" src="./src/ghpt.gif">
 
 <h3 align="left">Connect with me!</h3>
 
