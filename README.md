@@ -1,24 +1,30 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+# 👩🏻‍💻 Vitor Mengue Dorneles
+
+Olá, sou o Vitor Mengue Dorneles, tenho 19 anos e moro em Cachoeirinha - RS. Estudo Ciência da Computação na Cesuca e, apesar de estar começando em TI, levo comigo mais de 4 anos de experiência profissional em outras áreas, que me ensinaram responsabilidade e maturidade. Sou apaixonado por tecnologia, programação e Inteligência Artificial, e estou aqui para aprender, construir e crescer na área.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitor-mengue-dorneles-1642a4282">
+    <img
+      alt="LinkedIn"
+      title="Conecte-se comigo"
+      src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084482" /></a>
+  <a href="https://www.instagram.com/SEU_USUARIO">
+    <img
+      alt="Instagram"
+      title="Me siga no Instagram"
+      src="https://img.shields.io/badge/Instagram-Seguir-8A3AB9?style=for-the-badge&logo=instagram&logoColor=white&labelColor=5E2680" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=vitormengue06@gmail.com">
+    <img
+      alt="E-mail"
+      title="Me envie um e-mail"
+      src="https://img.shields.io/badge/E--mail-Contato-c1463d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c5221f"
+    />
   </a>
-</div>
+</p>
 
 #
 
-Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - RS. Atualmente curso Ciência da Computação na Universidade Cesuca. Embora esteja iniciando minha trajetória na área de TI, tenho mais de 4 anos de experiência no mercado de trabalho em outras áreas, o que me trouxe responsabilidade, comprometimento e maturidade profissional. Sou apaixonado por tecnologia e especialmente curioso sobre Hardware, área na qual busco aprender e crescer.
- 
-#
-
-<img align="right" alt="" height="165px" src="./src/gif-name.gif">
-
-<h3 align="left">🫂 Connect with me!</h3>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vitor.dorneless/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/vitor-mengue-dorneles-1642a4282/)
-
-
-<h3 align="left">💻 My Stack </h3>
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -28,7 +34,7 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+    
 <img 
     align="left" 
     alt="HTML"
@@ -37,7 +43,14 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -46,37 +59,22 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
 <img 
-/>
-
-<img
-    align="left"
-    alt="Photoshop"
+    align="left" 
+    alt="Photoshop" 
     title="Photoshop"
-    width="30px"
-    style="padding-right: 10px;"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
-    />
-    
+/>
 <img 
     align="left" 
     alt="illustrator" 
     title="illustrator"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
 />
-
 <img 
     align="left" 
     alt="PremierePro" 
@@ -84,30 +82,25 @@ Olá, meu nome é Vitor Mengue Dorneles, tenho 19 anos e sou de Cachoeirinha - R
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
-    />
+/>
 
 <br/>
 <br/>
 
-<h3 align="left">👨‍💻 GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-              alt="GitHub Streak"
-        height="170"
-        src="https://streak-stats.demolab.com/?user=menguevtr&theme=radical&locale=pt_BR"
-    </td>
-    <td align="center">
-      <img
-     alt="GitHub Stats"
-        height="170"
-        src="https://github-readme-stats.vercel.app/api?username=menguevtr&show_icons=true&theme=radical&locale=pt-br"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    alt="GitHub Streak"
+    height="200"
+    src="https://streak-stats.demolab.com/?user=menguevtr&theme=radical&locale=pt_BR"
+  />
+  <img
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=menguevtr&show_icons=true&theme=radical&locale=pt-br"
+  />
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menguevtr/menguevtr/output/github-contribution-grid-snake-dark.svg">
