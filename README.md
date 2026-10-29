@@ -92,12 +92,12 @@ Olá, sou o Vitor Mengue Dorneles, tenho 19 anos e moro em Cachoeirinha - RS. Es
 <p align="center">
   <img
     alt="GitHub Streak"
-    height="200"
+    width="48%"
     src="https://streak-stats.demolab.com/?user=menguevtr&theme=radical&locale=pt_BR"
   />
   <img
     alt="GitHub Stats"
-    height="200"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api?username=menguevtr&show_icons=true&theme=radical&locale=pt-br"
   />
 </p>
