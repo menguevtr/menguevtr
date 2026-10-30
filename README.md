@@ -3,7 +3,7 @@
 Olá, sou o Vitor Mengue Dorneles, tenho 19 anos e moro em Cachoeirinha - RS. Estudo Ciência da Computação na Cesuca e, apesar de estar começando em TI, levo comigo mais de 4 anos de experiência profissional em outras áreas, que me ensinaram responsabilidade e maturidade. Sou apaixonado por tecnologia, programação e Inteligência Artificial, e estou aqui para aprender, construir e crescer na área.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vitor-mengue-dorneles-1642a4282">
+  <a href="https://www.linkedin.com/in/vitor-mengue-dorneles/">
     <img
       alt="LinkedIn"
       title="Conecte-se comigo"
