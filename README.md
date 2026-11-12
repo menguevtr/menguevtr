@@ -69,6 +69,14 @@ Olá, me chamo Vitor, tenho 19 anos e moro em Cachoeirinha - RS. Estudo Ciência
 />
 <img 
     align="left" 
+    alt="Claude" 
+    title="Claude"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Photoshop" 
     title="Photoshop"
     width="30px" 
