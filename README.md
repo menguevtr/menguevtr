@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vitor Mengue Dorneles
 
-Olá, me chamo Vitor, tenho 19 anos e moro em Cachoeirinha - RS. Estudo Ciência da Computação (2 semestre) e estou começando na TI, levo comigo mais de 4 anos de experiência profissional em outras áreas, que me ensinaram responsabilidade e maturidade. Sou apaixonado por tecnologia, programação e Inteligência Artificial, e estou aqui para aprender, construir e crescer na área.
+Olá, me chamo Vitor, tenho 19 anos e moro em Cachoeirinha - RS. Estudo Ciência da Computação (2º semestre) e estou começando na TI, levo comigo mais de 4 anos de experiência profissional em outras áreas, que me ensinaram responsabilidade e maturidade. Sou apaixonado por tecnologia, programação e Inteligência Artificial, e estou aqui para aprender, construir e crescer na área.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vitor-mengue-dorneles/">
@@ -110,6 +110,13 @@ Olá, me chamo Vitor, tenho 19 anos e moro em Cachoeirinha - RS. Estudo Ciência
 
 <br/>
 <br/>
+
+### Projetos
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [📉 Monitor de Preços](https://github.com/menguevtr/monitor-de-precos) | Acompanha preços em lojas online, guarda o histórico, gera gráficos e avisa por e-mail quando o preço cai | Python, Requests, Beautiful Soup, Matplotlib, pytest |
+| [💸 Meus gastos](https://github.com/menguevtr/controle-de-gastos) · [ver online](https://menguevtr.github.io/controle-de-gastos/) | Painel de gastos pessoais com gráficos interativos e um gráfico de enxame com física | HTML, CSS, JavaScript |
 
 <h3 align="left">GitHub Stats</h3>
 
