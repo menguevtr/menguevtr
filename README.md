@@ -54,7 +54,7 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 <img 
     align="left" 
     alt="TypeScript" 
-    title="TypeScript"
+    title="Typescript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
@@ -62,7 +62,7 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 <img 
     align="left" 
     alt="JavaScript" 
-    title="JavaScript"
+    title="Javascript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
