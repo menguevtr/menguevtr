@@ -54,7 +54,7 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 <img 
     align="left" 
     alt="TypeScript" 
-    title="Typescript"
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
@@ -62,7 +62,7 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 <img 
     align="left" 
     alt="JavaScript" 
-    title="Javascript"
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -77,8 +77,8 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 />
 <img 
     align="left" 
-    alt="ClaudeCode" 
-    title="ClaudeCode"
+    alt="Claude Code" 
+    title="Claude Code"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claudecode/claudecode-original.svg" 
@@ -93,16 +93,16 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 />
 <img 
     align="left" 
-    alt="illustrator" 
-    title="illustrator"
+    alt="Illustrator" 
+    title="Illustrator"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
 />
 <img 
     align="left" 
-    alt="PremierePro" 
-    title="PremierePro"
+    alt="Premiere Pro" 
+    title="Premiere Pro"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
