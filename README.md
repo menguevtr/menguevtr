@@ -24,13 +24,6 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 
 #
 
-### 🔭 Atualmente
-
-- 🎓 Cursando Ciência da Computação no CESUCA
-- 🎨 Assistente de design no marketing da Webcontinental
-- 🤖 Estudando Inteligência Artificial e criando projetos com Claude e Claude Code
-- 📫 Fale comigo: vitormengue06@gmail.com
-
 ### Linguagens e Tecnologias
 
 <img 
@@ -118,6 +111,8 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 <br/>
 <br/>
 
+#
+
 ### Projetos
 
 | Projeto | O que é | Tecnologias |
@@ -126,6 +121,8 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 | [💸 Meus gastos](https://github.com/menguevtr/controle-de-gastos) · [ver online](https://menguevtr.github.io/controle-de-gastos/) | Painel de gastos pessoais com gráficos interativos e um gráfico de enxame com física | HTML, CSS, JavaScript |
 
 ➡️ [Ver todos os repositórios](https://github.com/menguevtr?tab=repositories)
+
+#
 
 ### 📊 Estatísticas no GitHub
 
