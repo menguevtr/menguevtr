@@ -118,7 +118,9 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 | [📉 Monitor de Preços](https://github.com/menguevtr/monitor-de-precos) | Acompanha preços em lojas online, guarda o histórico, gera gráficos e avisa por e-mail quando o preço cai | Python, Requests, Beautiful Soup, Matplotlib, pytest |
 | [💸 Meus gastos](https://github.com/menguevtr/controle-de-gastos) · [ver online](https://menguevtr.github.io/controle-de-gastos/) | Painel de gastos pessoais com gráficos interativos e um gráfico de enxame com física | HTML, CSS, JavaScript |
 
-<h3 align="left">GitHub Stats</h3>
+➡️ [Ver todos os repositórios](https://github.com/menguevtr?tab=repositories)
+
+### 📊 Estatísticas no GitHub
 
 <p align="center">
   <img
