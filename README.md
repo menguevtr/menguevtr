@@ -24,6 +24,13 @@ Olá, me chamo Vitor, tenho 19 anos e sou de Porto Alegre (RS). Estudo Ciência 
 
 #
 
+### 🔭 Atualmente
+
+- 🎓 Cursando Ciência da Computação no CESUCA
+- 🎨 Assistente de design no marketing da Webcontinental
+- 🤖 Estudando Inteligência Artificial e criando projetos com Claude e Claude Code
+- 📫 Fale comigo: vitormengue06@gmail.com
+
 ### Linguagens e Tecnologias
 
 <img 
